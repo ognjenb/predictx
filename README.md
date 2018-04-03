@@ -5,7 +5,7 @@
 
 Notes:
 
-- In the Description of the problem there is a mistake `if I understood the problem correctly`:
+- In the Description of the first problem there is a mistake `if I understood the problem correctly`:
 
      s1 = "my&friend&Paul has heavy hats! &"
  s2 = "my friend John has many many friends &"
