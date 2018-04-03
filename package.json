@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "node lib/test/helpers_test.js"
   },
   "repository": {
@@ -16,6 +17,7 @@
   },
   "homepage": "https://github.com/ognjenb/predictx#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "lodash.assignwith": "^4.2.0"
   },
   "devDependencies": {
