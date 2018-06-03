@@ -1,4 +1,6 @@
 
+For the description of this tech test see TechTestDescription.pdf!
+
 - Run `npm install` first.
 - Run `npm test` to run unit tests.
 - Run `npm start` to start the webserver.
