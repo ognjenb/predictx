@@ -1,4 +1,3 @@
-# predictx
 
 - Run `npm install` first.
 - Run `npm test` to run unit tests.
